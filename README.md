@@ -22,6 +22,7 @@
 ➡️ DAX language
 ➡️ DAX studio (for optimizing the report)
 ➡️ Project charter file
+
 𝐋𝐞𝐚𝐫𝐧𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐁𝐈 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬📊💡
 
 ➡️ Creating calculated columns.
@@ -39,6 +40,7 @@
 ➡️ Publishing reports to PowerBI services.
 ➡️ Setting up a personal gateway to set up the auto-refresh of data.
 ➡️ Collaboration, workspace, and access permissions in PowerBi services.
+
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬-𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬💼
 
 ➡️ Gross price
@@ -51,6 +53,7 @@
 ➡️ COGS: cost of goods sold
 ➡️ YTD: Year to Date
 ➡️ YTG: Year to Go
+
 🛠️𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝:
 
 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈📊
